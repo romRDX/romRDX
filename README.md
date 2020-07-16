@@ -1,16 +1,29 @@
-### Hi there 👋
+# Rômullo Sander A.S. 🖥🚀
 
-<!--
-**romRDX/romRDX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/r%C3%B4mullo-sander-27491795/">
+  <img alt="Linkedin Badge" src="https://img.shields.io/badge/-Rômullo%20Sander-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliasgcf/"/>
+</a>
+<a href="mailto:romullo_sas@outlook.com">
+  <img alt="Gmail Badge" src="https://img.shields.io/badge/-romullo_sas@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romullo_sas@outlook.com"/>
+</a>
 
-Here are some ideas to get you started:
+<a href="https://www.facebook.com/romullo.sas/">
+  <img alt="Facebook Badge" src="https://img.shields.io/badge/-Rômullo%20Sander-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/romullo.sas/"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hello 👋, Welcome to my gitHub, hope you like what i have here. 🙂
+
+### A little about me...
+
+* Almost finishing college...  📕🖥 (Bachelor of information systems - 80%)
+
+* Graduated student at RocketSeat's GoStack BootCamp 🚀🚀🚀 (React, React Native, NodeJS)
+
+* Gamer 🎮, Nerd 🤓, Animal lover 🐱🐶❤
+
+
+### EXTRA!
+
+Forever student, always looking for more knowledge.
+
+If you want to chat, just call me on Facebook!
