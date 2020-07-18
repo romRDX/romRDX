@@ -27,3 +27,6 @@
 Forever student, always looking for more knowledge.
 
 If you want to chat, just call me on Facebook!
+
+I'm looking for an awesome job opportunity, if you have something for me just take a look at my curriculum here:
+https://github.com/romRDX/romRDX
