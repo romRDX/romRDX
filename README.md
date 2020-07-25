@@ -30,3 +30,6 @@ If you want to chat, just call me on Facebook!
 
 I'm looking for an awesome job opportunity, if you have something for me just take a look at my curriculum here:
 https://github.com/romRDX/romRDX
+
+Rocketseat GoStack Bootcamp Cerficate:
+https://app.rocketseat.com.br/api/certificates/pdf/290d3568-1d67-40dd-96e9-067b93fafd2f
