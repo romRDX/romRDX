@@ -13,20 +13,23 @@
 
 ## Hello 👋, Welcome to my gitHub, hope you like what i have here. 🙂
 
-### A little about me...
+Im a proactive and very dedicated developer/student, always committed to being the best of me. Focused on developing quality code and applications that bring value to the customer. Always available to help the team and seek solutions to problems beyond my specific work.
 
-* Almost finishing college...  📕🖥 (Bachelor of information systems - 80%)
+Technologies i work with:
+* HTML & CSS
+* Javascript
+* Typescript
+* React
+* NextJs
+* Jest + React Testing Library
+* Styled Components
 
-* Graduated student at RocketSeat's GoStack BootCamp 🚀🚀🚀 (React, React Native, NodeJS)
-
-* Gamer 🎮, Nerd 🤓, Animal lover 🐱🐶❤
-
-
-### EXTRA!
-
-Forever student, always looking for more knowledge.
-
-If you want to chat, just call me on Facebook!
 
 Rocketseat GoStack Bootcamp Cerficate:
 https://app.rocketseat.com.br/api/certificates/pdf/290d3568-1d67-40dd-96e9-067b93fafd2f
+
+My Projects:
+
+https://rdx-clothes-ecommerce.netlify.app/
+https://rdx-money-transfer.netlify.app/
+https://rdx-bookshelf-app.netlify.app/
