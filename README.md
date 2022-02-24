@@ -30,6 +30,6 @@ https://app.rocketseat.com.br/api/certificates/pdf/290d3568-1d67-40dd-96e9-067b9
 
 My Projects:
 
-https://rdx-clothes-ecommerce.netlify.app/
-https://rdx-money-transfer.netlify.app/
-https://rdx-bookshelf-app.netlify.app/
+* https://rdx-clothes-ecommerce.netlify.app/
+* https://rdx-money-transfer.netlify.app/
+* https://rdx-bookshelf-app.netlify.app/
