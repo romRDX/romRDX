@@ -13,6 +13,10 @@
 
 ## Hello 👋, Welcome to my gitHub, hope you like what i have here. 🙂
 
+I create content about programming and development, take a look:
+* https://www.youtube.com/channel/UCRyP60PPWB9HyQAyi3B7gjQ
+* https://www.instagram.com/programacaojavascriptreact/
+
 Im a proactive and very dedicated developer/student, always committed to being the best of me. Focused on developing quality code and applications that bring value to the customer. Always available to help the team and seek solutions to problems beyond my specific work.
 
 Technologies i work with:
