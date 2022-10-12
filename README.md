@@ -32,7 +32,12 @@ Technologies i work with:
 * Storybook
 
 My updated resume:
-https://drive.google.com/drive/folders/1oxgICJWXkRrwZEu_E-T7hiSmY1vsY-EA?usp=sharing
+
+<a target="_blank" href="https://drive.google.com/drive/folders/1oxgICJWXkRrwZEu_E-T7hiSmY1vsY-EA?usp=sharing">
+  Resume
+</a>
+
+
 
 
 Rocketseat GoStack Bootcamp Cerficate:
