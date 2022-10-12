@@ -13,7 +13,7 @@
 
 ## Hello 👋, Welcome to my gitHub, hope you like what i have here. 🙂
 
-I create content about programming and development, take a look:
+I create content about front-end development, take a look:
 * https://www.youtube.com/channel/UCRyP60PPWB9HyQAyi3B7gjQ
 * https://www.instagram.com/programacaojavascriptreact/
 
@@ -24,9 +24,15 @@ Technologies i work with:
 * Javascript
 * Typescript
 * React
+* Redux
 * NextJs
 * Jest + React Testing Library
+* GraphQL & Apollo Client
 * Styled Components
+* Storybook
+
+My updated resume:
+https://drive.google.com/drive/folders/1oxgICJWXkRrwZEu_E-T7hiSmY1vsY-EA?usp=sharing
 
 
 Rocketseat GoStack Bootcamp Cerficate:
