@@ -31,10 +31,8 @@ Technologies i work with:
 * Styled Components
 * Storybook
 
-My updated resume:
-
-<a target="_blank" href="https://drive.google.com/drive/folders/1oxgICJWXkRrwZEu_E-T7hiSmY1vsY-EA?usp=sharing">
-  Resume
+My updated resume: <a target="_blank" href="https://drive.google.com/drive/folders/1oxgICJWXkRrwZEu_E-T7hiSmY1vsY-EA?usp=sharing">
+  Resume link
 </a>
 
 
