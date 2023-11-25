@@ -31,7 +31,7 @@ Technologies i work with:
 * Styled Components
 * Storybook
 
-My updated resume: <a target="_blank" href="https://drive.google.com/drive/folders/1oxgICJWXkRrwZEu_E-T7hiSmY1vsY-EA?usp=sharing">
+My updated resume: <a target="_blank" href="https://drive.google.com/drive/folders/1FSuBj9PviBpFpIfDLjddU8rXoIzKNASl?usp=drive_link">
   Resume link
 </a>
 
@@ -43,6 +43,7 @@ https://app.rocketseat.com.br/api/certificates/pdf/290d3568-1d67-40dd-96e9-067b9
 
 My Projects:
 
-* https://rdx-clothes-ecommerce.netlify.app/
-* https://rdx-money-transfer.netlify.app/
-* https://rdx-bookshelf-app.netlify.app/
+*	Clothes e-commerce website:	https://rdx-clothes-ecommerce.netlify.app/
+*	Money conversion and transfence app: https://rdx-money-transfer.netlify.app/
+*	Book management app: http://rdx-bookshelf-app.netlify.app/
+*	Job finder app: https://job-finder-app-beta.vercel.app/test/jobs
