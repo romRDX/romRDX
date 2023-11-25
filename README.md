@@ -38,8 +38,8 @@ My updated resume: <a target="_blank" href="https://drive.google.com/drive/folde
 
 
 
-Rocketseat GoStack Bootcamp Cerficate:
-https://app.rocketseat.com.br/api/certificates/pdf/290d3568-1d67-40dd-96e9-067b93fafd2f
+# Rocketseat GoStack Bootcamp Cerficate:
+# https://app.rocketseat.com.br/api/certificates/pdf/290d3568-1d67-40dd-96e9-067b93fafd2f
 
 My Projects:
 
