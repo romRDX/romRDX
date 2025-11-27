@@ -17,7 +17,7 @@ I create content about front-end development, take a look:
 * https://www.youtube.com/channel/UCRyP60PPWB9HyQAyi3B7gjQ
 * https://www.instagram.com/programacaojavascriptreact/
 
-Im a proactive and very dedicated developer/student, always committed to being the best of me. Focused on developing quality code and applications that bring value to the customer. Always available to help the team and seek solutions to problems beyond my specific work.
+Im a proactive and very dedicated Frontend Engineer, always committed to being the best of me. Focused on developing quality code and applications that bring value to the customer. Always available to help the team and seek solutions to problems beyond my specific work.
 
 Technologies i work with:
 * HTML & CSS
